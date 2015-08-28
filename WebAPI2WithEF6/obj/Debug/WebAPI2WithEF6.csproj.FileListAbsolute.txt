@@ -35,4 +35,3 @@ D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6\bin\EntityFramework.xml
 D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6\bin\EntityFramework.SqlServer.xml
 D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6\obj\Debug\WebAPI2WithEF6.Migrations.Initial.resources
 D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6\obj\Debug\WebAPI2WithEF6.csproj.GenerateResource.Cache
-D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6\obj\Debug\WebAPI2WithEF6.csprojResolveAssemblyReference.cache

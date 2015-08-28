@@ -31,3 +31,5 @@ D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6.Tests\obj\Debug\WebAPI2W
 D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6.Tests\obj\Debug\WebAPI2WithEF6.Tests.pdb
 D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6.Tests\bin\Debug\EntityFramework.dll
 D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6.Tests\bin\Debug\EntityFramework.xml
+D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6.Tests\bin\Debug\EntityFramework.SqlServer.dll
+D:\Datas\Develop\Examples\WebAPI2WithEF6\WebAPI2WithEF6.Tests\bin\Debug\EntityFramework.SqlServer.xml

@@ -27,8 +27,7 @@
 
     //Fetch the initial data
     getAllBooks();
-
-
+    
     //handling detail events
     self.detail = ko.observable();
     self.getBookDetail = function (item) {
@@ -36,8 +35,7 @@
             self.detail(data);
         });
     }
-
-       
+           
     //Add new item
     self.authors = ko.observableArray();
     self.newBook = {
@@ -54,8 +52,7 @@
             self.authors(data); 
         });
     }
-    
-    
+        
     self.addBook = function (formElement) {
         var book = {
             AuthorId: self.newBook.Author().Id,

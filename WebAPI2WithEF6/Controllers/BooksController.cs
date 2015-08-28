@@ -17,6 +17,14 @@ namespace WebAPI2WithEF6.Controllers
     {
         private BookServiceContext db = new BookServiceContext();
 
+        List<BookDTO> _bookDTOs = new List<BookDTO>();
+        public List<BookDTO> bookDTOs() { return _bookDTOs; }
+
+        public BooksController() { }
+        public BooksController(List<BookDTO> items) { _bookDTOs=items; }
+
+
+        public BookDetailDTO BookDetailDTOs { get; set; }
         // GET api/Books
         public IQueryable<BookDTO> GetBooks()
         {
